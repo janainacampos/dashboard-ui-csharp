@@ -1,0 +1,15 @@
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\DASHBOARD_MODERN.exe.config
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\DASHBOARD_MODERN.exe
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\DASHBOARD_MODERN.pdb
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.csprojAssemblyReference.cache
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.Form1.resources
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.Properties.Resources.resources
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.csproj.GenerateResource.cache
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.csproj.CoreCompileInputs.cache
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.exe
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.pdb
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\CircularProgressBar.dll
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\WinFormAnimation.dll
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\CircularProgressBar.xml
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\WinFormAnimation.xml
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.csproj.CopyComplete
