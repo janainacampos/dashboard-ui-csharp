@@ -117,56 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Untitled-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled-11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="money-bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\money-bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Conact" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Conact.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="diagram12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\diagram12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="diagram" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\diagram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Lrg-diagram" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Lrg-diagram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="diagram11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\diagram11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="diagram1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\diagram1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Lrg-calendar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Lrg-calendar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="chart-diagram" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\chart-diagram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Lrg-settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Lrg-settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="downloads" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\downloads.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Lrg-Conact" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Lrg-Conact.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="calendar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\calendar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Lrg-settings1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Lrg-settings1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="circularProgressBar1.AnimationFunction" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJzaW9uPTEuMy4wLjAsIEN1
+        bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAIlN5c3RlbS5EZWxlZ2F0ZVNlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACERlbGVnYXRlB21ldGhvZDADAzBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxp
+        emF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1Nlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACQMAAAAJBAAAAAQDAAAAMFN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRp
+        b25Ib2xkZXIrRGVsZWdhdGVFbnRyeQcAAAAEdHlwZQhhc3NlbWJseQZ0YXJnZXQSdGFyZ2V0VHlwZUFz
+        c2VtYmx5DnRhcmdldFR5cGVOYW1lCm1ldGhvZE5hbWUNZGVsZWdhdGVFbnRyeQEBAgEBAQMwU3lzdGVt
+        LkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5BgUAAAAsV2luRm9ybUFuaW1h
+        dGlvbi5BbmltYXRpb25GdW5jdGlvbnMrRnVuY3Rpb24GBgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJz
+        aW9uPTEuMy4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAoJBgAAAAYHAAAA
+        I1dpbkZvcm1BbmltYXRpb24uQW5pbWF0aW9uRnVuY3Rpb25zBggAAAALQ3ViaWNFYXNlSW4KBAQAAAAv
+        U3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIHAAAABE5hbWUMQXNz
+        ZW1ibHlOYW1lCUNsYXNzTmFtZQlTaWduYXR1cmUKU2lnbmF0dXJlMgpNZW1iZXJUeXBlEEdlbmVyaWNB
+        cmd1bWVudHMBAQEBAQADCA1TeXN0ZW0uVHlwZVtdCQgAAAAJBgAAAAkHAAAABgsAAAAyU2luZ2xlIEN1
+        YmljRWFzZUluKFNpbmdsZSwgU2luZ2xlLCBTaW5nbGUsIFNpbmdsZSkGDAAAAFVTeXN0ZW0uU2luZ2xl
+        IEN1YmljRWFzZUluKFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5
+        c3RlbS5TaW5nbGUpCAAAAAoL
+</value>
   </data>
 </root>

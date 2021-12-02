@@ -13,3 +13,8 @@ C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\WinFormA
 C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\CircularProgressBar.xml
 C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\bin\Debug\WinFormAnimation.xml
 C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.csproj.CopyComplete
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.fmrDashboard.resources
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.frmAnalytics.resources
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.frmCalender.resources
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.frmContact.resources
+C:\Users\janap\source\repos\DASHBOARD_MODERN\DASHBOARD_MODERN\obj\Debug\DASHBOARD_MODERN.frmSettings.resources
